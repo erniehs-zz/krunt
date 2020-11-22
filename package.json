@@ -2,9 +2,9 @@
   "name": "krunt",
   "version": "1.0.0",
   "description": "krunt, for all the moustache wearing cancel culturists",
-  "main": "index.js",
+  "main": "krunt.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec"
   },
   "keywords": [
     "krunt",
@@ -13,5 +13,17 @@
     "moustache"
   ],
   "author": "ernie <ernie_hs@hotmail.com>",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erniehs/krunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erniehs/krunt/issues"
+  },
+  "homepage": "https://github.com/erniehs/krunt#readme"
 }
