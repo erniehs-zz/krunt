@@ -1,3 +1,3 @@
-const krunt = (s) => (s ? (s.endsWith(".") ? s + "  " : ".  ") : "") + "I am a krunt!"
+const krunt = (s) => (s ? s + (s.endsWith(".") ? "  " : ".  ") : "") + "I am a krunt!"
 
 module.exports.krunt = krunt
