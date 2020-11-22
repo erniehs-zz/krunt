@@ -15,6 +15,8 @@ Tired of not being a krunt?  You too can be a krunt with **krunt** &trade;
     var some_text = "Hi, my name is Donald."
 
     var krunted = krunt(some_text)  // we should expect Hi, my name is Donald. I am a krunt!
+
+    var really_krunted = krunt(krunt(krunt("Donald")))  // we should expect, Donald.  I am a krunt!.  I am a krunt!.  I am a krunt!
 ```
 
 ## Future releases
