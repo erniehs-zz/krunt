@@ -1,0 +1,17 @@
+{
+  "name": "krunt",
+  "version": "1.0.0",
+  "description": "krunt, for all the moustache wearing cancel culturists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "krunt",
+    "cancel",
+    "culture",
+    "moustache"
+  ],
+  "author": "ernie <ernie_hs@hotmail.com>",
+  "license": "UNLICENSED"
+}
