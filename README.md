@@ -6,9 +6,6 @@
 
 Tired of not being a krunt?  You too can be a krunt with **krunt** &trade;
 
-## Backers
-
-
 ## Usage
 
 ```javascript
